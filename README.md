@@ -1,2 +1,0 @@
-# webpractice
-for practice
